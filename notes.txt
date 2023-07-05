@@ -1,0 +1,14 @@
+Notes:
+
+Automated Vector Analysis
+
+1. read image file
+2. search for shortest effective vector
+
+Image file exported from a CAD program
+Image is to scale
+Color-coded geometry
+User inputs
+    - scale
+    - x location of boundaries
+    - color + shielding effectiveness pairs
